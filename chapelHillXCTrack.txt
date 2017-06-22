@@ -1,0 +1,51 @@
+﻿<!DOCTYPE HTML>
+<HTML>
+<head>
+  <meta charset="UTF-8">
+  <title>Chapel Hill XC Track</title>
+  <link rel="stylesheet" type="text/css" href="chapelHillXCTrackStyleSheet.css"/>
+  <link href="https://fonts.googleapis.com/css?family=Black+Ops+One" rel="stylesheet"> 
+
+<body>
+<div id="banner">
+  <h1>Chapel Hill Cross-Country & Track</h1>
+</div>
+<div id="nav">
+  <ul>
+    <li><a href="#banner">Top</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#schedule">Schedule</a></li>
+    <li><a href="#records">Records</a></li>
+    <li><a href="#coaches">Coaches</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</div>
+
+<div id="news">
+  <p>Picture with information here. Use article format?</p>
+  <p>Float pic to left?</p>
+</div>
+
+<div id="schedule">
+  <p>schedule or other information.</p>
+  <p>Put a table, list or a link (pdf)for the schedule.</p>
+</div>
+
+<div id="records">
+  <p>Records and links to milesplit.</p>
+  <p>List here. </p>
+</div>
+
+<div id="coaches">
+  <p>Coaches information. </p>
+</div>
+
+<div id="contact">
+  <p>contact and social media links.</p>
+  <p>Contact form goes here. </p>
+</div>
+
+
+</body>
+
+</html>

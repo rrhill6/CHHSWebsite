@@ -1,0 +1,103 @@
+body{
+  background-color: #660066;
+}
+
+
+/* Navigation vertical bar   */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  overflow: hidden;
+  position: fixed;
+  width: 10%;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+}
+
+li a{
+  text-decoration: none;
+  font-size: .9em;
+  color: black;
+  display: block;
+  background-color: #ebebe0;
+  box-shadow: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 3px outset #660066;
+}
+
+li a:hover {
+  background-color: #999966;
+  box-shadow: 5px;
+  border: 3px outset #b3ffb3
+}
+
+
+/* banner & header rules   */
+#banner {
+  height: 350px;
+  background: url(panthereyes.jpg);
+  background-size: cover;
+  padding: 0;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+#banner h1 {
+  font-size: 2.7em;
+  font-family: 'Black Ops One', cursive, sans-serif;
+  color: #fff;
+  text-align: center;
+  line-height: normal;
+  text-transform: uppercase;
+  padding-top: 55px;
+}
+
+#banner h2 {
+  font-size: 2.2em;
+  font-family: 'Black Ops One', cursive, sans-serif;
+  color: #fff;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+
+/* content div rules   */
+
+#news, #schedule, #records, #coaches, #contact {
+  font-size: 1em;
+  font-family: 'Black Ops One', cursive, sans-serif;
+  padding: 2%;
+  margin-left: 12%;
+  margin-bottom: 10px;
+  border: 2px black solid;
+  background: url(panther.jpg) #BFBFBF;
+  background-attachment: fixed;
+  background-size: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+/* inline style rules */
+
+h2 {
+  font-size: 2.2em;
+  font-variant: small-caps;
+  padding: 3px 10px;
+}
+
+p{
+ font-size: 1.2em;
+ padding: 10px 5px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 1.4; 
+}
